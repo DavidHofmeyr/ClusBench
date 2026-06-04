@@ -5,6 +5,13 @@ The data were derived from data sets primarily used for classification. A
 modified Kernel Density Estimate (KDE) which uses local statistics computed
 from nearest neighbours was fit to each underlying data set, and then ten
 samples, each of size 5000, were generated from each fitted distribution.
+In addition, when class proportions were unbalanced, an additional ten
+data sets of size 5000, but in which the class priors were set equal for
+all classes, were generated. The suffix "_original" means class priors
+match the class proportions in the underlying data set and "_equal" refers
+to the modified, uniform class priors. Finally, data sets which were unreasonably
+difficult to cluster were then removed. This means that some data sets will
+only have an "_equal" variant, while others may only have an "_original" variant.
 
 See DATA_PROVENANCE for resources.
 
