@@ -24,5 +24,7 @@ library(ClusBench)
 help(ClusBench)
 ```
 
+The main functions in the package are `{r} get_data`
+
 ## More
 A paper will be uploaded soon to ArXiV with more details on the data and the package. Please cite the paper (once available) if using the package and/or repository.
