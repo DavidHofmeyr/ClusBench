@@ -23,3 +23,6 @@ install.packages("https://github.com/DavidHofmeyr/ClusBench/raw/refs/heads/maste
 library(ClusBench)
 help(ClusBench)
 ```
+
+## More
+A paper will be uploaded soon to ArXiV with more details on the data and the package. Please cite the paper (once available) if using the package and/or repository.
