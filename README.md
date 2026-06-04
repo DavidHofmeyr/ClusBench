@@ -18,6 +18,8 @@ See DATA_PROVENANCE for resources.
 ## Installing the R package
 To install and load the package from within R:
 ```{r}
-install.packages("https://github.com/DavidHofmeyr/ClusBench/raw/refs/heads/master/ClusBench_0.1.0.tar.gz", type = "source", repos = NULL)
+install.packages("https://github.com/DavidHofmeyr/ClusBench/raw/refs/heads/master/ClusBench_0.1.0.tar.gz",
+  type = "source", repos = NULL)
 library(ClusBench)
+help(ClusBench)
 ```
