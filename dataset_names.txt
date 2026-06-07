@@ -1,0 +1,278 @@
+Abalone_equal
+Abalone_original
+Absenteeism at work_equal
+Absenteeism at work_original
+Acute Inflammations_original
+adult_equal
+adult_original
+agaricus_lepiota_original
+AI4I 2020 Predictive Maintenance Dataset_equal
+AI4I 2020 Predictive Maintenance Dataset_original
+Algerian Forest Fires_equal
+Algerian Forest Fires_original
+allbp_equal
+allbp_original
+allhyper_equal
+allhyper_original
+allhypo_equal
+allrep_equal
+allrep_original
+analcatdata_asbestos_original
+analcatdata_authorship_equal
+analcatdata_authorship_original
+analcatdata_bankruptcy_original
+analcatdata_boxing1_original
+analcatdata_boxing2_original
+analcatdata_creditscore_original
+analcatdata_cyyoung8092_equal
+analcatdata_cyyoung8092_original
+analcatdata_cyyoung9302_equal
+analcatdata_cyyoung9302_original
+analcatdata_dmft_original
+analcatdata_fraud_original
+analcatdata_germangss_original
+analcatdata_japansolvent_original
+analcatdata_lawsuit_equal
+analcatdata_lawsuit_original
+ann_thyroid_equal
+ann_thyroid_original
+Annealing_equal
+Annealing_original
+Anuran Calls (Family)_equal
+Anuran Calls (Family)_original
+Anuran Calls (Genus)_equal
+Anuran Calls (Genus)_original
+Anuran Calls (Species)_equal
+Anuran Calls (Species)_original
+appendicitis_equal
+appendicitis_original
+Auction Verification_original
+Audiology (Standardized)_equal
+Audiology (Standardized)_original
+Autism Screening Adult_original
+Autistic Spectrum Disorder Screening Data for Children  _original
+auto_insurance_symboling_equal
+auto_insurance_symboling_original
+backache_equal
+backache_original
+balance_scale_equal
+balance_scale_original
+Balloons_original
+banana_original
+Bank Marketing_equal
+Bank Marketing_original
+banknote_original
+biodeg_original
+biomed_original
+Blood Transfusion Service Center_equal
+Blood Transfusion Service Center_original
+Breast Cancer Coimbra_original
+Breast Cancer Wisconsin (Prognostic)_equal
+Breast Cancer Wisconsin (Prognostic)_original
+breast_cancer_original
+breast_cancer_wisconsin_diagnostic_original
+breast_cancer_wisconsin_original_original
+bupa_original
+calendarDOW_original
+car_evaluation_equal
+car_evaluation_original
+Cardiotocography_equal
+Cardiotocography_original
+cars_equal
+cars_original
+Cervical Cancer Behavior Risk_original
+Chronic Kidney Disease_original
+churn_equal
+churn_original
+Cirrhosis Patient Survival Prediction_equal
+Cirrhosis Patient Survival Prediction_original
+clean1_original
+clean2_equal
+clean2_original
+cloud_original
+coil2000_equal
+collins_equal
+collins_original
+confidence_original
+congressional_voting_records_original
+contraceptive_method_original
+corral_original
+COVID-19 Surveillance_equal
+COVID-19 Surveillance_original
+Credit Approval_original
+credit_approval_australia_original
+credit_approval_germany_original
+Cylinder Bands_original
+DARWIN_original
+dermatology_equal
+dermatology_original
+dis_equal
+dna_original
+Drug Consumption (Quantified)_equal
+Dry Bean_equal
+Dry Bean_original
+Early Stage Diabetes Risk Prediction_original
+Echocardiogram_equal
+Echocardiogram_original
+ecoli_equal
+ecoli_original
+EEG Eye State_original
+Estimation of Obesity Levels_original
+Fertility_equal
+Fertility_original
+flags_equal
+flags_original
+forest_original
+Glass Identification_equal
+Glass Identification_original
+glass2_original
+Glioma Grading Clinical and Mutation Features_original
+haberman_original
+hayes_roth_original
+HCV data_equal
+HCV data_original
+Heart Disease_equal
+Heart Disease_original
+Heart Failure Clinical Records_original
+heart_disease_cleveland_original
+hepatitis_equal
+hepatitis_original
+Higher Education Students Performance Evaluation_equal
+Higher Education Students Performance Evaluation_original
+Horse Colic_original
+horse_colic_lesion_type_original
+HTRU2_equal
+HTRU2_original
+hypothyroid_equal
+ILPD (Indian Liver Patient Dataset)_original
+ionosphere_original
+iris_original
+irish_original
+isolet_original
+krkopt_equal
+krkopt_original
+labor_original
+led24_original
+led7_original
+Lenses_equal
+Lenses_original
+letter_original
+Lung Cancer_original
+lupus_original
+lymphography_equal
+lymphography_original
+magic_original
+mammography_original
+Maternal Health Risk_original
+mfeat_factors_original
+mfeat_fourier_original
+mfeat_karhunen_original
+mfeat_morphological_original
+mfeat_pixel_original
+mfeat_zernike_original
+Mice Protein Expression_original
+mofn_3_7_10_equal
+mofn_3_7_10_original
+molecular_biology_promoters_original
+MONK's Problems_original
+monk1_original
+monk3_original
+movement_libras_original
+mushroom_original
+Musk (Version 1)_original
+Musk (Version 2)_equal
+Musk (Version 2)_original
+mux6_original
+Myocardial infarction complications_equal
+Myocardial infarction complications_original
+NATICUSdroid (Android Permissions)_original
+new_thyroid_equal
+new_thyroid_original
+NHANES 2013-2014 Age Prediction Subset_original
+nursery_equal
+nursery_original
+oliveoil_equal
+oliveoil_original
+oliveoil2_equal
+oliveoil2_original
+Online Shoppers Purchasing Intention Dataset_equal
+Online Shoppers Purchasing Intention Dataset_original
+optdigits_original
+Ozone Level Detection_equal
+page_blocks_equal
+page_blocks_original
+parkinsons_equal
+parkinsons_original
+pendigits_original
+penguins_original
+Phishing Websites_original
+phoneme_original
+postoperative_patient_data_original
+Predict Students' Dropout and Academic Success_original
+Primary Tumor_equal
+Primary Tumor_original
+prnn_crabs_original
+prnn_synth_original
+Raisin_original
+Regensburg Pediatric Appendicitis_equal
+Regensburg Pediatric Appendicitis_original
+Rice (Cammeo and Osmancik)_original
+ring_original
+Risk Factor Prediction of Chronic Kidney Disease_original
+saheart_original
+satimage_original
+schizo_equal
+schizo_original
+Secondary Mushroom_original
+seeds_original
+segmentation_original
+Shuttle Landing Control_original
+smartphone_equal
+smartphone_original
+sonar_original
+soybean_equal
+soybean_original
+spambase_original
+spect_equal
+spect_original
+spectf_original
+splice_original
+Steel Plates Faults_equal
+Steel Plates Faults_original
+Student Performance on an Entrance Examination_original
+Student Performance_equal
+Student Performance_original
+SUPPORT2_original
+tae_original
+Taiwanese Bankruptcy Prediction_equal
+Taiwanese Bankruptcy Prediction_original
+Tennis Major Tournament Match Statistics_original
+texture_original
+Thoracic Surgery Data_equal
+Thoracic Surgery Data_original
+threeOf9_original
+tic_tac_toe_original
+titanic_original
+tokyo1_original
+twonorm_original
+User Knowledge Modeling_equal
+User Knowledge Modeling_original
+vehicle_original
+Vertebral Column_original
+votes_original
+vowel_original
+waveform_21_original
+waveform_40_original
+Website Phishing_equal
+Website Phishing_original
+Wholesale customers_equal
+wine_quality_red_equal
+wine_quality_red_original
+wine_quality_white_equal
+wine_quality_white_original
+wine_recognition_original
+xd6_original
+yeast_equal
+yeast_original
+zoo_equal
+zoo_original

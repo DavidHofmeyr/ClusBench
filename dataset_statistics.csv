@@ -1,0 +1,279 @@
+"","dimension","num_classes","imbalance","best_linkage","clusterability_max","clusterability_mean","clusterability_min","group"
+"Abalone_equal",9,28,6.94110204081633e-07,"ward.D",0.3793,0.0928625,1e-04,1
+"Abalone_original",9,28,0.00245028859591837,"average",0.2023,0.11661875,0.0233,1
+"Absenteeism at work_equal",19,19,1.82557119113573e-06,"ward.D",0.5662,0.22856875,0.025,1
+"Absenteeism at work_original",19,19,0.00637782696066482,"ward.D",0.2303,0.10120625,0.0093,1
+"Acute Inflammations_original",6,2,3.81923999999999e-05,"ward.D2",0.5952,0.43445625,0.304,2
+"adult_equal",103,4,1.85540000000001e-06,"ward.D",0.0756,0.0180625,0,3
+"adult_original",103,4,0.0256605956,"ward.D",0.0675,0.0165625,0,3
+"agaricus_lepiota_original",50,2,0.0003849444,"ward.D2",0.5639,0.13354375,1e-04,4
+"AI4I 2020 Predictive Maintenance Dataset_equal",7,2,1.58403999999999e-05,"ward.D",0.0509,0.0238125,0,3
+"AI4I 2020 Predictive Maintenance Dataset_original",7,2,0.2188742656,"single",0.1829,0.05560625,0.0032,5
+"Algerian Forest Fires_equal",333,9,1.27974320987654e-06,"ward.D",0.6847,0.159375,0,6
+"Algerian Forest Fires_original",333,9,0.038825747654321,"ward.D",0.9939,0.26359375,0.0176,6
+"allbp_equal",28,3,9.56168888888887e-06,"ward.D",0.476,0.13170625,3e-04,4
+"allbp_original",28,3,0.194842000088889,"mcquitty",0.2228,0.04684375,2e-04,5
+"allhyper_equal",28,4,2.53260000000001e-06,"ward.D",0.68,0.1943875,4e-04,4
+"allhyper_original",28,4,0.1745567108,"average",0.0452,0.0210375,0,5
+"allhypo_equal",28,3,5.96062222222219e-06,"ward.D",0.1302,0.0349875,4e-04,3
+"allrep_equal",28,4,3.38699999999999e-06,"ward.D",0.4806,0.105375,2e-04,4
+"allrep_original",28,4,0.171566589,"ward.D2",0.0717,0.01424375,0,5
+"analcatdata_asbestos_original",4,2,0.0030492484,"ward.D",0.4016,0.2152875,0.0011,4
+"analcatdata_authorship_equal",90,4,3.52140000000002e-06,"ward.D2",0.9996,0.42559375,0,6
+"analcatdata_authorship_original",90,4,0.0155340434,"ward.D",0.9996,0.40870625,0,6
+"analcatdata_bankruptcy_original",6,2,4.83999999999991e-06,"ward.D",0.6418,0.1797375,0,4
+"analcatdata_boxing1_original",4,2,0.0229340736,"average",0.1082,0.0501875,0.0015,3
+"analcatdata_boxing2_original",3,2,0.0017505856,"mcquitty",0.07,0.0423625,0.0014,3
+"analcatdata_creditscore_original",7,2,0.0535552164,"ward.D",0.2748,0.121975,0.0015,5
+"analcatdata_cyyoung8092_equal",10,2,8.06559999999989e-06,"average",0.2633,0.15245625,0,4
+"analcatdata_cyyoung8092_original",10,2,0.0647091844,"average",0.1665,0.10330625,0.0016,3
+"analcatdata_cyyoung9302_equal",11,2,1.45924000000001e-05,"ward.D2",0.475,0.2797625,0,4
+"analcatdata_cyyoung9302_original",11,2,0.0847042816,"ward.D",0.2938,0.15489375,4e-04,5
+"analcatdata_dmft_original",11,6,0.000220012755555556,"ward.D",0.0652,0.02338125,2e-04,3
+"analcatdata_fraud_original",12,2,0.0360772036,"ward.D",0.5249,0.1622875,0.001,5
+"analcatdata_germangss_original",6,4,2.25200000000002e-07,"ward.D2",0.0661,0.02804375,1e-04,3
+"analcatdata_japansolvent_original",9,2,0.0004866436,"ward.D",0.4347,0.13503125,3e-04,4
+"analcatdata_lawsuit_equal",4,2,7.9524000000001e-06,"ward.D2",0.6552,0.31226875,1e-04,4
+"analcatdata_lawsuit_original",4,2,0.1843671844,"complete",0.2638,0.101875,0.0044,5
+"ann_thyroid_equal",21,3,1.76222222222225e-06,"ward.D2",0.4518,0.1107375,4e-04,4
+"ann_thyroid_original",21,3,0.175821322755556,"complete",0.1947,0.0683875,0,5
+"Annealing_equal",32,3,2.27139555555555e-05,"ward.D",0.786,0.20255625,1e-04,4
+"Annealing_original",32,3,0.0851139118222222,"mcquitty",0.5093,0.2098,0,5
+"Anuran Calls (Family)_equal",22,4,2.93580000000001e-06,"ward.D",0.6078,0.2226125,0,4
+"Anuran Calls (Family)_original",22,4,0.055804421,"ward.D2",0.5236,0.21271875,0.0032,5
+"Anuran Calls (Genus)_equal",22,8,3.6966e-06,"ward.D",0.7004,0.300025,0,6
+"Anuran Calls (Genus)_original",22,8,0.0333421108,"ward.D2",0.5819,0.32069375,0.0177,6
+"Anuran Calls (Species)_equal",22,10,2.00568e-06,"ward.D",0.7702,0.3451875,0,6
+"Anuran Calls (Species)_original",22,10,0.01784795968,"average",0.8154,0.44998125,0.0168,6
+"appendicitis_equal",7,2,4.6656000000001e-06,"ward.D2",0.4254,0.23970625,1e-04,4
+"appendicitis_original",7,2,0.0917120656,"average",0.5753,0.2836375,6e-04,5
+"Auction Verification_original",7,2,0.1394126244,"average",0.1073,0.03710625,0.0016,5
+"Audiology (Standardized)_equal",284,24,8.56855555555556e-07,"ward.D",0.8085,0.1537875,1e-04,1
+"Audiology (Standardized)_original",284,24,0.00407513678888889,"ward.D",0.9795,0.2278875,0.0091,1
+"Autism Screening Adult_original",98,2,0.0522396736,"ward.D",0.9347,0.2342375,1e-04,6
+"Autistic Spectrum Disorder Screening Data for Children  _original",82,2,0.0003944196,"ward.D",0.606,0.15285625,0,4
+"auto_insurance_symboling_equal",26,6,7.67688888888881e-07,"ward.D",0.5056,0.2005125,0,4
+"auto_insurance_symboling_original",26,6,0.0105561580888889,"ward.D2",0.3821,0.15120625,0.001,4
+"backache_equal",33,2,6.24999999999987e-06,"ward.D2",0.3019,0.08676875,0,3
+"backache_original",33,2,0.1302199396,"complete",0.1969,0.05554375,3e-04,5
+"balance_scale_equal",17,3,5.64355555555536e-07,"ward.D2",0.0638,0.0206875,0,3
+"balance_scale_original",17,3,0.0326721984888889,"ward.D",0.1202,0.03295,4e-04,3
+"Balloons_original",4,2,0.0040985604,"ward.D",0.6131,0.19031875,0,4
+"banana_original",2,2,0.0029354724,"ward.D",0.0845,0.04374375,1e-04,3
+"Bank Marketing_equal",42,2,1.93599999999999e-05,"ward.D",0.0416,0.011525,0,3
+"Bank Marketing_original",42,2,0.148225,"ward.D2",0.1085,0.0382,0.0033,5
+"banknote_original",4,2,0.00285156,"ward.D2",0.2895,0.15670625,0,4
+"biodeg_original",41,2,0.02608225,"ward.D",0.3117,0.06836875,0,4
+"biomed_original",14,2,0.0205291584,"ward.D",0.4754,0.13539375,9e-04,4
+"Blood Transfusion Service Center_equal",4,2,4.90000000000009e-07,"ward.D2",0.0958,0.03395,0,3
+"Blood Transfusion Service Center_original",4,2,0.0678810916,"ward.D2",0.0846,0.03985,0.0074,3
+"Breast Cancer Coimbra_original",9,2,0.0032126224,"ward.D",0.0984,0.0291,0,3
+"Breast Cancer Wisconsin (Prognostic)_equal",33,2,1.58760000000003e-06,"ward.D2",0.0576,0.022375,0,3
+"Breast Cancer Wisconsin (Prognostic)_original",33,2,0.0685811344,"ward.D",0.0628,0.01968125,0,3
+"breast_cancer_original",17,2,0.0409900516,"ward.D2",0.1533,0.04551875,0,3
+"breast_cancer_wisconsin_diagnostic_original",30,2,0.0160833124,"ward.D",0.7142,0.27654375,0.0012,4
+"breast_cancer_wisconsin_original_original",81,2,0.0236175424,"ward.D2",0.9998,0.2988875,6e-04,6
+"bupa_original",5,2,0.0002304324,"ward.D2",0.0482,0.02035,0,3
+"calendarDOW_original",97,5,0.00232126016,"ward.D2",0.3784,0.10281875,6e-04,4
+"car_evaluation_equal",16,4,5.23620000000001e-06,"ward.D",0.3672,0.1102375,0,4
+"car_evaluation_original",16,4,0.0729071894,"mcquitty",0.0772,0.0252,0.0013,3
+"Cardiotocography_equal",21,10,1.50952000000001e-06,"ward.D",0.5707,0.21238125,2e-04,6
+"Cardiotocography_original",21,10,0.0059953984,"ward.D",0.4319,0.1521,0.0044,6
+"cars_equal",7,3,1.55480888888889e-05,"average",0.2861,0.167075,1e-04,4
+"cars_original",7,3,0.0428995640888889,"ward.D2",0.2655,0.13415625,0.0013,5
+"Cervical Cancer Behavior Risk_original",19,2,0.0441168016,"ward.D2",0.4949,0.2086,0.001,5
+"Chronic Kidney Disease_original",34,2,0.0123565456,"ward.D2",0.952,0.31863125,7e-04,6
+"churn_equal",21,2,8.10000000000021e-07,"ward.D2",0.067,0.02246875,0,3
+"churn_original",21,2,0.1254293056,"mcquitty",0.0851,0.02316875,0.0012,5
+"Cirrhosis Patient Survival Prediction_equal",729,3,1.63958222222222e-05,"ward.D2",1,0.252425,0,6
+"Cirrhosis Patient Survival Prediction_original",729,3,0.0397269531555556,"ward.D",0.9996,0.2630875,7e-04,6
+"clean1_original",168,2,0.0039790864,"ward.D",0.0738,0.0232375,0,3
+"clean2_equal",168,2,7.61759999999992e-06,"ward.D",0.1062,0.0567875,0,3
+"clean2_original",168,2,0.1186664704,"complete",0.1192,0.03499375,0,5
+"cloud_original",7,4,0.000972351,"ward.D2",0.0522,0.02330625,1e-04,3
+"coil2000_equal",488,2,1.93599999999996e-07,"ward.D",0.6336,0.081,0,6
+"collins_equal",22,13,7.12359763313605e-07,"ward.D",0.6203,0.249,0,6
+"collins_original",22,13,0.00151259666745562,"ward.D",0.6146,0.2443875,5e-04,6
+"confidence_original",3,6,1.6800888888889e-06,"ward.D",0.8407,0.67710625,0.4637,2
+"congressional_voting_records_original",33,2,0.0136515856,"ward.D2",0.7161,0.16190625,4e-04,4
+"contraceptive_method_original",12,3,0.00691243982222222,"ward.D",0.0581,0.01971875,2e-04,3
+"corral_original",6,2,0.0036529936,"ward.D2",0.5865,0.17675625,2e-04,4
+"COVID-19 Surveillance_equal",7,3,3.36888888888872e-08,"ward.D",0.6783,0.20075625,0,4
+"COVID-19 Surveillance_original",7,3,0.0424626883555555,"ward.D",0.5399,0.1640125,0.0037,5
+"Credit Approval_original",40,2,0.0027185796,"ward.D2",0.1851,0.0400875,0,3
+"credit_approval_australia_original",16,2,0.0020466576,"ward.D",0.3885,0.10076875,2e-04,4
+"credit_approval_germany_original",41,2,0.0403045776,"ward.D",0.0529,0.01575,0,3
+"Cylinder Bands_original",629,2,0.0131606784,"ward.D",0.7599,0.17025,4e-04,6
+"DARWIN_original",623,2,0.0001833316,"ward.D",0.8159,0.2236625,0,6
+"dermatology_equal",96,6,2.84475555555555e-06,"ward.D",0.9952,0.31491875,0,6
+"dermatology_original",96,6,0.00573474862222222,"ward.D",0.9959,0.3104,2e-04,6
+"dis_equal",28,2,1.93599999999996e-07,"ward.D",0.221,0.04748125,2e-04,3
+"dna_original",180,3,0.0169187523555556,"ward.D2",0.7242,0.187225,0,6
+"Drug Consumption (Quantified)_equal",12,7,2.88587755102041e-06,"ward.D2",0.0709,0.02309375,0,3
+"Dry Bean_equal",16,7,1.20233469387756e-06,"ward.D",0.7755,0.51046875,0.1018,6
+"Dry Bean_original",16,7,0.00433815444897959,"ward.D2",0.7541,0.44871875,0.0353,6
+"Early Stage Diabetes Risk Prediction_original",16,2,0.0130599184,"ward.D",0.4546,0.1356625,0,4
+"Echocardiogram_equal",8,48,3.49055555555556e-07,"ward.D",0.4314,0.19050625,0.0239,1
+"Echocardiogram_original",8,48,0.000164856772222222,"ward.D",0.5033,0.2114875,0.0339,1
+"ecoli_equal",7,5,5.01648000000001e-06,"ward.D",0.7569,0.41746875,2e-04,6
+"ecoli_original",7,5,0.01698845536,"ward.D",0.8005,0.4458125,0.0039,6
+"EEG Eye State_original",14,2,0.0031449664,"ward.D",0.2785,0.08760625,0,3
+"Estimation of Obesity Levels_original",23,7,0.00015846507755102,"ward.D",0.4122,0.1105,2e-04,4
+"Fertility_equal",9,2,1.39876e-05,"ward.D",0.2298,0.05783125,0,3
+"Fertility_original",9,2,0.1435803664,"mcquitty",0.0879,0.02381875,9e-04,5
+"flags_equal",44,5,6.91216000000001e-06,"ward.D",0.543,0.16020625,0,4
+"flags_original",44,5,0.0073081176,"ward.D",0.4497,0.12719375,0,4
+"forest_original",27,4,0.0085120564,"ward.D",0.6618,0.27826875,0.0012,4
+"Glass Identification_equal",9,6,2.14435555555556e-06,"ward.D",0.6064,0.23541875,2e-04,4
+"Glass Identification_original",9,6,0.0160418512888889,"ward.D2",0.4659,0.2128625,0.0075,4
+"glass2_original",9,2,0.0010329796,"ward.D2",0.1779,0.04841875,9e-04,3
+"Glioma Grading Clinical and Mutation Features_original",25,2,0.0063234304,"ward.D2",0.3058,0.05789375,2e-04,3
+"haberman_original",3,2,0.0532594084,"complete",0.1185,0.0493,0.001,3
+"hayes_roth_original",12,3,0.00962938408888889,"ward.D",0.4577,0.1766375,0.0012,4
+"HCV data_equal",12,5,2.51968000000001e-06,"ward.D",0.6713,0.24056875,1e-04,4
+"HCV data_original",12,5,0.11947265008,"ward.D2",0.6203,0.3201625,0.0274,5
+"Heart Disease_equal",13,5,2.79808000000001e-06,"ward.D",0.2892,0.11474375,0,4
+"Heart Disease_original",13,5,0.03095989968,"ward.D",0.4469,0.16703125,0.0012,4
+"Heart Failure Clinical Records_original",12,2,0.0318836736,"ward.D",0.1982,0.0692375,7e-04,3
+"heart_disease_cleveland_original",16,2,0.00148996,"ward.D2",0.4813,0.1417875,3e-04,4
+"hepatitis_equal",19,2,3.13600000000006e-07,"ward.D",0.6078,0.1925625,0,4
+"hepatitis_original",19,2,0.0865771776,"ward.D2",0.5097,0.17895,5e-04,5
+"Higher Education Students Performance Evaluation_equal",31,8,8.27599999999997e-07,"ward.D",0.5505,0.15609375,0,4
+"Higher Education Students Performance Evaluation_original",31,8,0.0031732347,"ward.D",0.5024,0.1405875,7e-04,4
+"Horse Colic_original",27,2,0.01734489,"ward.D",0.5797,0.15583125,0,4
+"horse_colic_lesion_type_original",28,3,0.00469581608888889,"single",0.6773,0.42853125,0.0222,6
+"HTRU2_equal",8,2,9.21599999999978e-07,"ward.D",0.5908,0.29079375,1e-04,4
+"HTRU2_original",8,2,0.1672155664,"ward.D2",0.674,0.4000375,0.0118,5
+"hypothyroid_equal",26,2,1.22499999999998e-05,"ward.D2",0.0839,0.0405125,0.0031,3
+"ILPD (Indian Liver Patient Dataset)_original",10,2,0.04713241,"complete",0.0566,0.0197,0,3
+"ionosphere_original",33,2,0.0182736324,"ward.D",0.3303,0.11606875,5e-04,4
+"iris_original",4,3,8.70782222222223e-06,"ward.D",0.7579,0.6270875,0.5061,2
+"irish_original",6,2,0.0032012964,"ward.D2",0.2305,0.08384375,4e-04,3
+"isolet_original",617,26,9.08151479289942e-07,"ward.D2",0.8129,0.372175,1e-04,1
+"krkopt_equal",35,18,9.14158024691359e-07,"ward.D",0.2494,0.07134375,0,1
+"krkopt_original",35,18,0.0027220788691358,"ward.D",0.0881,0.02584375,2e-04,1
+"labor_original",58,2,0.0223562304,"ward.D2",1,0.302175,0,6
+"led24_original",24,10,1.835672e-05,"ward.D2",0.4379,0.14829375,0,6
+"led7_original",7,10,3.799264e-05,"average",0.5103,0.2882875,0.0038,6
+"Lenses_equal",3,3,2.02408888888887e-06,"ward.D2",0.988,0.6380375,0.2359,2
+"Lenses_original",3,3,0.0424749830222222,"ward.D",0.9912,0.52294375,0.1488,6
+"letter_original",16,26,1.29815147928994e-06,"ward.D",0.4727,0.205925,5e-04,1
+"Lung Cancer_original",56,3,0.00258925608888889,"ward.D",0.9344,0.2420875,2e-04,6
+"lupus_original",3,2,0.00883599999999999,"ward.D",0.1726,0.07885625,0.001,3
+"lymphography_equal",19,4,4.42160000000001e-06,"ward.D2",0.7631,0.61048125,0.3216,2
+"lymphography_original",19,4,0.0552377954,"ward.D",0.5986,0.2830875,0.0759,6
+"magic_original",10,2,0.0215913636,"ward.D",0.0962,0.04810625,0.0027,3
+"mammography_original",5,2,0.000321126400000001,"ward.D2",0.3369,0.12111875,1e-04,4
+"Maternal Health Risk_original",6,3,0.00292235208888889,"average",0.2109,0.10309375,3e-04,3
+"mfeat_factors_original",216,10,2.0816e-06,"ward.D",0.9097,0.47895,0,6
+"mfeat_fourier_original",76,10,2.88512e-06,"ward.D",0.6837,0.25100625,0,6
+"mfeat_karhunen_original",64,10,2.20464e-06,"ward.D",0.8918,0.37788125,0,6
+"mfeat_morphological_original",17,10,3.3616e-06,"ward.D",0.6946,0.29205625,9e-04,6
+"mfeat_pixel_original",1409,10,1.4752e-06,"ward.D2",1,0.3445375,0,6
+"mfeat_zernike_original",47,10,1.70224e-06,"ward.D",0.7114,0.32999375,0,6
+"Mice Protein Expression_original",80,8,0.0005155996,"ward.D",0.5902,0.31921875,1e-04,6
+"mofn_3_7_10_equal",10,2,2.70399999999992e-07,"ward.D",0.6052,0.1554625,0,4
+"mofn_3_7_10_original",10,2,0.0787251364,"ward.D",0.4863,0.1046875,2e-04,5
+"molecular_biology_promoters_original",172,2,1.08160000000003e-06,"ward.D2",1,0.2549125,0,6
+"MONK's Problems_original",6,2,1.16639999999999e-06,"complete",0.0824,0.025975,0,3
+"monk1_original",9,2,4.6656000000001e-06,"ward.D2",0.2023,0.0534875,0,3
+"monk3_original",9,2,0.000461390400000001,"ward.D",0.2246,0.06085625,0,3
+"movement_libras_original",90,15,1.38440888888889e-06,"ward.D",0.6906,0.338225,1e-04,6
+"mushroom_original",95,2,0.000210830399999999,"ward.D",0.6047,0.15185,4e-04,4
+"Musk (Version 1)_original",732,2,0.0045212176,"ward.D",0.1847,0.04555,0,3
+"Musk (Version 2)_equal",166,2,1.08160000000003e-06,"ward.D",0.1046,0.0532125,0,3
+"Musk (Version 2)_original",166,2,0.1212850276,"mcquitty",0.1165,0.03541875,0,5
+"mux6_original",6,2,1.06276000000001e-05,"ward.D2",0.2133,0.0725875,0,3
+"Myocardial infarction complications_equal",111,2,7.39599999999999e-07,"ward.D",0.0934,0.022475,0,3
+"Myocardial infarction complications_original",111,2,0.161604,"ward.D",0.0567,0.01293125,0,5
+"NATICUSdroid (Android Permissions)_original",86,2,1.96000000000003e-08,"ward.D",0.2231,0.046975,0,3
+"new_thyroid_equal",5,3,2.97155555555561e-07,"mcquitty",0.0757,0.01536875,0,3
+"new_thyroid_original",5,3,0.0668994080888889,"ward.D",0.755,0.36744375,1e-04,5
+"NHANES 2013-2014 Age Prediction Subset_original",7,2,0.1156816144,"ward.D",0.8814,0.4925125,0.0118,5
+"nursery_equal",19,5,2.59472000000002e-06,"ward.D2",0.4005,0.13671875,0,4
+"nursery_original",19,5,0.02339858144,"ward.D",0.0931,0.03469375,3e-04,3
+"oliveoil_equal",8,3,2.12595555555553e-06,"ward.D",0.9551,0.5526375,1e-04,6
+"oliveoil_original",8,3,0.0282317976888889,"average",0.7925,0.4617125,0.0827,6
+"oliveoil2_equal",8,9,2.00400987654321e-06,"ward.D",0.9031,0.625675,0.2147,2
+"oliveoil2_original",8,9,0.00804674525432099,"ward.D",0.918,0.6757375,0.3603,2
+"Online Shoppers Purchasing Intention Dataset_equal",26,2,4.000000000008e-10,"ward.D2",0.0558,0.01285625,1e-04,3
+"Online Shoppers Purchasing Intention Dataset_original",26,2,0.1196191396,"complete",0.1019,0.0262125,0.0016,5
+"optdigits_original",80,10,2.22456000000001e-06,"ward.D",0.9211,0.23865625,1e-04,6
+"Ozone Level Detection_equal",72,2,2.68959999999992e-06,"ward.D2",0.1833,0.08915,0,3
+"page_blocks_equal",10,5,6.61168000000001e-06,"ward.D",0.5178,0.18281875,1e-04,4
+"page_blocks_original",10,5,0.12217894688,"complete",0.4092,0.206675,0.0626,5
+"parkinsons_equal",22,2,9.60999999999995e-06,"ward.D",0.3641,0.14208125,1e-04,4
+"parkinsons_original",22,2,0.06482116,"ward.D2",0.245,0.07930625,0,3
+"pendigits_original",16,10,1.926368e-05,"ward.D",0.8185,0.473725,4e-04,6
+"penguins_original",9,3,0.00901068942222222,"average",0.7008,0.5368125,0,6
+"Phishing Websites_original",30,2,0.0031069476,"ward.D2",0.1794,0.04190625,0,3
+"phoneme_original",256,5,0.00134836096,"ward.D",0.8203,0.47335625,0,6
+"postoperative_patient_data_original",13,2,0.0524959744,"mcquitty",0.0533,0.014375,3e-04,3
+"Predict Students' Dropout and Academic Success_original",36,3,0.0170825392888889,"ward.D",0.1513,0.0375,2e-04,3
+"Primary Tumor_equal",17,21,1.06912290249433e-06,"ward.D",0.669,0.2177875,0.0295,1
+"Primary Tumor_original",17,21,0.00294511948480726,"ward.D",0.5562,0.19976875,0.0126,1
+"prnn_crabs_original",7,2,3.36400000000029e-07,"median",0.0663,0.04085,0,3
+"prnn_synth_original",2,2,1.93599999999999e-05,"complete",0.3539,0.26141875,1e-04,4
+"Raisin_original",7,2,2.15295999999998e-05,"ward.D",0.4034,0.19943125,1e-04,4
+"Regensburg Pediatric Appendicitis_equal",113,3,5.80435555555559e-06,"ward.D",0.7851,0.19498125,0,6
+"Regensburg Pediatric Appendicitis_original",113,3,0.0591865947555556,"ward.D",0.8129,0.21348125,0.0026,6
+"Rice (Cammeo and Osmancik)_original",7,2,0.00540225,"average",0.603,0.33756875,3e-04,4
+"ring_original",20,2,2.28484000000001e-05,"ward.D",0.7802,0.2007625,0,4
+"Risk Factor Prediction of Chronic Kidney Disease_original",116,2,0.0205578244,"ward.D2",1,0.26465,0,6
+"saheart_original",9,2,0.02582449,"ward.D2",0.133,0.049175,3e-04,3
+"satimage_original",36,6,0.00378193088888889,"average",0.6471,0.41356875,0.07,6
+"schizo_equal",14,3,1.5467555555556e-06,"ward.D2",0.1141,0.0470625,0,3
+"schizo_original",14,3,0.0328604560888889,"complete",0.1101,0.0436875,6e-04,3
+"Secondary Mushroom_original",111,2,0.0033246756,"single",0.0654,0.0108375,2e-04,3
+"seeds_original",7,3,1.50006222222224e-05,"average",0.8773,0.6073375,0,6
+"segmentation_original",18,7,1.2747918367347e-06,"ward.D",0.6445,0.28476875,5e-04,6
+"Shuttle Landing Control_original",15,2,0.0098724096,"ward.D",0.9441,0.30686875,3e-04,6
+"smartphone_equal",561,12,1.94862222222222e-06,"ward.D",0.7568,0.298725,2e-04,6
+"smartphone_original",561,12,0.00588121955555556,"ward.D",0.6375,0.29875,0.0029,6
+"sonar_original",60,2,0.0012517444,"ward.D2",0.2123,0.06945625,0,3
+"soybean_equal",93,18,8.83802469135802e-07,"ward.D",0.9146,0.58451875,0,1
+"soybean_original",93,18,0.0019514684691358,"ward.D",0.8418,0.51344375,0.0107,1
+"spambase_original",57,2,0.01058841,"ward.D2",0.5931,0.1193625,0,4
+"spect_equal",22,2,3.99999999999912e-08,"ward.D",0.3657,0.10939375,0,4
+"spect_original",22,2,0.0877581376,"ward.D",0.2481,0.0567,0,5
+"spectf_original",44,2,0.05276209,"ward.D",0.166,0.02981875,0,3
+"splice_original",228,3,0.0168758192888889,"ward.D2",0.7761,0.262375,7e-04,6
+"Steel Plates Faults_equal",27,2,6.96959999999987e-06,"ward.D2",0.1861,0.0735,0,3
+"Steel Plates Faults_original",27,2,0.1746905616,"ward.D2",0.0417,0.0161,0.0017,5
+"Student Performance on an Entrance Examination_original",38,4,0.004185113,"ward.D2",0.1946,0.0503,1e-04,3
+"Student Performance_equal",39,17,9.08999307958479e-07,"ward.D",0.4961,0.114275,1e-04,1
+"Student Performance_original",39,17,0.00259882777577855,"ward.D",0.1858,0.05681875,0.0033,1
+"SUPPORT2_original",58,2,0.001681,"ward.D2",0.1677,0.0502125,0,3
+"tae_original",5,3,4.63179555555554e-05,"ward.D2",0.1394,0.0586875,0,3
+"Taiwanese Bankruptcy Prediction_equal",94,2,2.52004000000002e-05,"ward.D",0.7301,0.16626875,0,6
+"Taiwanese Bankruptcy Prediction_original",94,2,0.2190988864,"complete",0.3412,0.0697,0.0121,5
+"Tennis Major Tournament Match Statistics_original",365,2,3.7636000000001e-06,"ward.D2",0.7559,0.245125,0,6
+"texture_original",40,11,2.15929917355372e-06,"ward.D2",0.7111,0.47248125,0.1266,6
+"Thoracic Surgery Data_equal",24,2,9.12040000000014e-06,"ward.D2",0.0963,0.02084375,0,3
+"Thoracic Surgery Data_original",24,2,0.1248491556,"complete",0.0562,0.0151,0,5
+"threeOf9_original",9,2,0.0012306064,"ward.D2",0.2374,0.067725,0,3
+"tic_tac_toe_original",19,2,0.02414916,"ward.D2",0.1282,0.043225,3e-04,3
+"titanic_original",21,2,0.03122289,"ward.D2",0.1106,0.0147,0,3
+"tokyo1_original",42,2,0.0193877776,"ward.D",0.4501,0.114825,0.0089,4
+"twonorm_original",20,2,5.19839999999989e-06,"ward.D2",0.8767,0.4076625,0,6
+"User Knowledge Modeling_equal",5,5,1.74527999999999e-06,"ward.D",0.3619,0.15840625,1e-04,4
+"User Knowledge Modeling_original",5,5,0.01325600336,"ward.D2",0.3499,0.16110625,4e-04,4
+"vehicle_original",18,4,7.88482000000002e-05,"ward.D",0.2326,0.10148125,3e-04,4
+"Vertebral Column_original",6,3,0.0148751483555556,"ward.D",0.4374,0.2041875,0,4
+"votes_original",16,2,0.0123787876,"ward.D2",0.6707,0.3391625,0,4
+"vowel_original",13,11,1.53915371900827e-06,"ward.D",0.4407,0.18229375,0,6
+"waveform_21_original",21,3,2.59024888888889e-05,"ward.D",0.3874,0.21229375,0,4
+"waveform_40_original",40,3,1.27984888888888e-05,"ward.D",0.348,0.14665625,0,4
+"Website Phishing_equal",9,3,2.17742222222221e-06,"ward.D2",0.1842,0.0731375,0,3
+"Website Phishing_original",9,3,0.0357486310222222,"ward.D",0.2827,0.1036375,7e-04,5
+"Wholesale customers_equal",7,3,7.19902222222218e-06,"ward.D",0.0509,0.0152625,0,3
+"wine_quality_red_equal",11,6,2.73848888888888e-06,"ward.D",0.2929,0.106825,0,4
+"wine_quality_red_original",11,6,0.0321550155555556,"ward.D",0.1117,0.04938125,6e-04,3
+"wine_quality_white_equal",11,7,1.57044897959184e-06,"ward.D",0.2574,0.084575,0,4
+"wine_quality_white_original",11,7,0.0256180839346939,"ward.D",0.0723,0.03250625,0.0034,3
+"wine_recognition_original",13,3,0.00273411235555555,"ward.D",0.9871,0.55488125,0,6
+"xd6_original",9,2,0.0292273216,"ward.D",0.1713,0.05835625,2e-04,3
+"yeast_equal",72,5,3.4728e-06,"ward.D",0.7598,0.35813125,0,6
+"yeast_original",72,5,0.00954027568,"ward.D2",0.743,0.36965625,5e-04,6
+"zoo_equal",16,7,5.29947755102041e-06,"ward.D",0.9885,0.70358125,0.0094,6
+"zoo_original",16,7,0.0141131615346939,"ward.D2",0.9893,0.75989375,0.0044,6
