@@ -13,8 +13,8 @@ to the modified, uniform class priors. Finally, data sets which were unreasonabl
 difficult to cluster were then removed. This means that some data sets will
 only have an "_equal" variant, while others may only have an "_original" variant.
 
-The format for storage is ".data/data<datasetname>/<datasetname>_<samplenumber>.parquet".
-A list of all <datasetname>'s is given in dataset_names.txt, and <samplenumber> can be any
+The format for storage is ".data/dataDATASETNAME/DATASETNAME_SAMPLENUMBER.parquet".
+A list of all DATASETNAMEs is given in dataset_names.txt, and SAMPLENUMBER can be any
 of 1, 2, ..., 10.
 
 See DATA_PROVENANCE for resources.
