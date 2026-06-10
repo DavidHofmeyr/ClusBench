@@ -31,4 +31,4 @@ help(ClusBench)
 The main functions in the package are `get_data`, which can be used to download and load data directly into R, and `sampleX` and `sampleXy` which were used to fit the modified KDEs and sample from them. Documentation in the R package provides (e.g. `help(get_data)`) more information on its functionality.
 
 ## More
-A paper with more details on the data is available from [AriXiV](https://arxiv.org/abs/2606.10673). Please cite the paper (once available) if using the package and/or repository.
+See the [paper](https://arxiv.org/abs/2606.10673) for more details.
